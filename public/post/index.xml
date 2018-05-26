@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Regra de Três</title>
+    <link>https://www.regradetres.com.br/post/</link>
+    <description>Recent content in Posts on Regra de Três</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <copyright>Regra de Três Simples e Composta</copyright>
+    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.regradetres.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regra de Três Composta</title>
+      <link>https://www.regradetres.com.br/regra-de-tres-composta.html/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://www.regradetres.com.br/regra-de-tres-composta.html/</guid>
+      <description>Regra de três composta, na matemática, é a forma de encontrar um valor desconhecido quando conhecemos três ou mais grandezas diretamente ou inversamente proporcionais.
+Exemplos resolvidos de regra de três composta: 1) Numa gráfica existem 3 impressoras off set que funcionam ininterruptamente, 10 horas por dia, durante 4 dias, imprimindo 240.000 folhas. Tendo-se quebrado umas das impressoras e necessitando-se imprimir, em 6 dias, 480.000 folhas, quantas horas por dia deverão funcionar ininterruptamente as duas máquinas restantes?</description>
+    </item>
+    
+    <item>
+      <title>Regra de Três Simples</title>
+      <link>https://www.regradetres.com.br/regra-de-tres-simples.html/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://www.regradetres.com.br/regra-de-tres-simples.html/</guid>
+      <description>Regra de três simples permite encontrar um quarto valor que não conhecemos em um problema, dos quais conhecemos apenas três deles. Assim, encontraremos o valor desconhecido a partir dos três já conhecidos.
+Veja os passos para montar o problema e resolver facilmente:
+ Crie uma tabela e agrupe as grandezas da mesma espécie na mesma coluna. Identificar se as grandezas são inversamente ou diretamente proporcionais, analisaremos isso no próximo passo.</description>
+    </item>
+    
+  </channel>
+</rss>

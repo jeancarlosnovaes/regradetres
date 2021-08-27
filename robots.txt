@@ -23,7 +23,6 @@ User-agent: *
 Disallow: /
 Disallow: /post/
 Disallow: /privacidade/
-Disallow: /amp/
 User-agent: 01h4x.com
 Disallow:/
 User-agent: 360Spider

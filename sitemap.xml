@@ -2,12 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="https://www.regradetres.com.br/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
-		<url>
-			<loc>https://www.regradetres.com.br/privacidade/</loc>
-			<lastmod>2018-03-06T16:01:23+08:00</lastmod>
-			<changefreq>weekly</changefreq>
-			<priority>0.5</priority>
-		</url>
+		
 	
 		<url>
 			<loc>https://www.regradetres.com.br/regra-de-tres-composta.html/amp/</loc>
@@ -37,19 +32,6 @@
 			<priority>0.5</priority>
 		</url>
 	
-		<url>
-			<loc>https://www.regradetres.com.br/amp/</loc>
-			<lastmod>2018-03-06T16:01:23+08:00</lastmod>
-			<changefreq>weekly</changefreq>
-			<priority>0</priority>
-		</url>
-	
-		<url>
-			<loc>https://www.regradetres.com.br/post/</loc>
-			<lastmod>2018-03-07T16:01:23+08:00</lastmod>
-			<changefreq>weekly</changefreq>
-			<priority>0</priority>
-		</url>
 	
 		<url>
 			<loc>https://www.regradetres.com.br/</loc>
